@@ -1,6 +1,6 @@
-.intro{
-    background-color: brown;
-    font-family: sans-serif;
-    font-size: 16px;
-    
+.test-box {
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
 }
